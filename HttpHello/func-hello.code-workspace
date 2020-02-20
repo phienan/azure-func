@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\phien\\projects\\azure"
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen",
+		"python.pythonPath": ".venv\\Scripts\\python.exe"
+	}
+}
